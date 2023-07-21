@@ -1,0 +1,17 @@
+export {
+    Settings as SettingsIcon,
+    EditNote as EditNoteIcon,
+    Palette as  PaletteIcon,
+    List as ListIcon,
+    Visibility as VisibilityIcon,
+    AddCircle as AddCircleIcon,
+    Loupe as LoupeIcon,
+    Description as DescriptionIcon,
+    Home as HomeIcon,
+    Edit as EditIcon,
+    DriveFileRenameOutline as DriveFileRenameOutlineIcon,
+    Done as DoneIcon,
+    EditOff as EditOffIcon,
+    Delete as DeleteIcon,
+    AttachFile as AttachFileIcon,
+} from "@mui/icons-material";
