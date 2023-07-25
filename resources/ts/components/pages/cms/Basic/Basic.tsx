@@ -102,9 +102,9 @@ export function Basic() {
                             ""
                         )}
                         <Explain>
-                            ここで設定したドメインでサイト公開するには、そのドメインがIPアドレス：118.27.109.13に解決されるようにDNSのレコード設定もしくは端末のhosts設定が必要です。
+                            ここで設定したドメインでサイト公開するには、そのドメインがIPアドレス：160.251.104.192に解決されるようにDNSのレコード設定もしくは端末のhosts設定が必要です。
                             <br />
-                            "aaa.tkng.site"や"bbb.tkng.site"など、"tkng.site"のサブドメインであれば全てこのIPに解決されます。自由にご利用ください。
+                            "aaa.r.tkng.site"や"bbb.r.tkng.site"など、"r.tkng.site"のサブドメインであれば全てこのIPに解決されます。自由にご利用ください。
                         </Explain>
                     </GridColumn>
                 </GridColumnsContainer>
